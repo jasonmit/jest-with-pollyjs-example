@@ -1,0 +1,29 @@
+{
+  "created_at": "2018-06-29T20:58:30.767Z",
+  "entries": {
+    "87a910f8e7f65da95449283e4604feb9": [
+      {
+        "created_at": "2018-06-29T20:58:30.767Z",
+        "request": {
+          "headers": {
+            "Content-Type": "text/plain;charset=utf-8"
+          },
+          "method": "GET",
+          "timestamp": "2018-06-29T20:58:30.248Z",
+          "url": "https://dog.ceo/api/breed/akita/images"
+        },
+        "response": {
+          "body": "{\"status\":\"success\",\"message\":[\"https://images.dog.ceo/breeds/akita/512px-Ainu-Dog.jpg\",\"https://images.dog.ceo/breeds/akita/512px-Akita_inu.jpeg\",\"https://images.dog.ceo/breeds/akita/Akina_Inu_in_Riga_1.JPG\",\"https://images.dog.ceo/breeds/akita/Akita_Dog.jpg\",\"https://images.dog.ceo/breeds/akita/Akita_Inu_dog.jpg\",\"https://images.dog.ceo/breeds/akita/Akita_hiking_in_Shpella_e_Pëllumbasit.JPG\",\"https://images.dog.ceo/breeds/akita/Akita_inu_blanc.jpg\",\"https://images.dog.ceo/breeds/akita/An_Akita_Inu_resting.jpg\",\"https://images.dog.ceo/breeds/akita/Japaneseakita.jpg\"]}",
+          "headers": {
+            "cache-control": "no-cache, private",
+            "content-type": "application/json"
+          },
+          "status": 200,
+          "timestamp": "2018-06-29T20:58:30.753Z"
+        }
+      }
+    ]
+  },
+  "name": "xhr test",
+  "schema_version": 0.1
+}

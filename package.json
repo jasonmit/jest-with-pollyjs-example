@@ -1,0 +1,19 @@
+{
+  "name": "jest-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest --no-watchman",
+    "test:watch": "npm run test --watch"
+  },
+  "devDependencies": {
+    "@pollyjs/core": "^0.5.0",
+    "@pollyjs/node-server": "^0.3.0",
+    "jest": "^23.2.0"
+  },
+  "dependencies": {},
+  "jest": {
+    "testURL": "http://localhost:3000"
+  }
+}
